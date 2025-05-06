@@ -1,4 +1,4 @@
-# 'Exporation +' - A Minecraft Plugin
+# 'Exporation +' - A Minecraft Plugin (for Spigot servers 1.15-1.16)
 ### Project Description:
 
 This plugin provides players with several useful commands, as well as a ui for saving coordinates in-game. Quality of life upgrades for players who like to explore.
